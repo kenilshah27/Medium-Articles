@@ -1,3 +1,2 @@
 # Medium-Articles
-Includes all the codes for my medium articles.
-You can view my articles here :
+You can view my medium articles here : https://medium.com/@kenilshah1996
